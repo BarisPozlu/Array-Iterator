@@ -1,2 +1,2 @@
 # Array Iterator
- basic array and Iterator implementation
+ Basic array and Iterator implementation
